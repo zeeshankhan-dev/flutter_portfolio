@@ -1,16 +1,34 @@
-# flutter_projects
+# 🚀 Flutter Portfolio
 
-A new Flutter project.
+Welcome to my **Flutter Portfolio App**, a beautifully crafted mobile application that showcases my development skills, personal profile, and projects — all built using Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ⚡ Clean & Responsive UI
+- 🧑‍💼 Personal Information Section
+- 💼 Project Showcase
+- 📱 Built for Android & iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Language:** Dart  
+- **Framework:** Flutter  
+- **IDE:** VS Code / Android Studio  
+- **State Management:** setState / Provider *(if used)*  
+- **Other Tools:** Flutter DevTools, Git, GitHub
+
+---
+
+## 📥 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/zeeshankhan-dev/flutter_portfolio.git
+cd flutter_portfolio
+flutter pub get
+flutter run
